@@ -27,7 +27,7 @@ _**Tingchen Fu<sup>‡†</sup>, Lemao Liu<sup>‡</sup>, Deng Cai<sup>‡</sup>
 
 
 _<sup>†</sup> Gaoling School of Artificial Intelligence, Renmin University of China_
-<sup>‡</sup> Tencent AI Lab_
+<sup>‡</sup> Tencent AI Lab
 
 </div>
 
@@ -41,7 +41,7 @@ _<sup>†</sup> Gaoling School of Artificial Intelligence, Renmin University of 
 - [Contents](#contents)
 - [Overview](#overview)
 - [Data Release](#data-release)
-- [Fine-tuning](#fine-tuning)
+- [Post-train/Pre-train](#post-trainpre-train)
 - [Evaluation](#evaluation)
 - [License](#license)
 
@@ -92,7 +92,7 @@ The statistics of the
 
 
 
-## Fine-tuning
+## Post-train/Pre-train
 
 To post-train BLOOM-560m on unintentional bililingual data, you can use the following command:
 
@@ -189,7 +189,7 @@ Explore-Instruct is still under development and needs a lot of improvements. We 
 
 ## License
 
-Explore-Instruct is intended and licensed for research use only. The dataset is CC BY NC 4.0 (allowing only non-commercial use) and models trained using the dataset should not be used outside of research purposes. The weights of Explore-LM models are also CC BY NC 4.0 (allowing only non-commercial use).
+The work is intended and licensed for research use only. The dataset is CC BY NC 4.0 (allowing only non-commercial use) and models trained using the dataset should not be used outside of research purposes. 
 <!-- 
 ## Citation
 
