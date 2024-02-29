@@ -62,7 +62,7 @@ Large language models (LLMs) exhibit non-trivial or even state-or-the-art capaci
 
 
 <p align="center">
-    <img src="./assets/case_v1.pdf" width="95%"> <br>
+    <img src="./assets/case_v1.png" width="95%"> <br>
 </p>
 
 ## Data Release
@@ -78,7 +78,7 @@ We release the excavated unintentional bilingual data from mC4.en and mC4.zh. Th
 The statistics of the
 
 <p align="left">
-    <img src="./assets/ratio.pdf" width="50%"> <br>
+    <img src="./assets/ratio.png" width="50%"> <br>
 </p>
 
 |                    |            | en      | zh      |
